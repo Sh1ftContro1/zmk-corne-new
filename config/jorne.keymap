@@ -104,7 +104,7 @@
             bindings = <
 &none  &none      &mt EXCLAMATION NUMBER_1  &mt AT_SIGN NUMBER_2  &mt POUND NUMBER_3  &mt DOLLAR NUMBER_4  &mt PERCENT NUMBER_5    &mt CARET NUMBER_6  &mt AMPERSAND NUMBER_7  &mt ASTERISK NUMBER_8  &mt LEFT_PARENTHESIS NUMBER_9  &mt RIGHT_PARENTHESIS NUMBER_0  &mt UNDERSCORE MINUS  &none
        &none      &trans                    &trans                &kp LG(C)           &kp LG(V)            &kp LG(X)               &kp LEFT_ARROW      &kp DOWN_ARROW          &kp UP_ARROW           &kp RIGHT_ARROW                &kp C_VOLUME_UP                 &mt PLUS EQUAL
-       &kp GLOBE  &none                     &none                 &none               &none                &none                   &kp LA(N)           &kp LA(M)               &none                  &trans                         &kp C_VOL_DN                    &kp K_MUTE
+       &kp GLOBE  &none                     &none                 &none               &none                &none                   &kp LA(LEFT)        &kp LA(RIGHT)           &none                  &trans                         &kp C_VOL_DN                    &kp K_MUTE
                                                                   &none               &trans               &trans                  &trans              &trans                  &trans
             >;
         };
